@@ -1,1 +1,1 @@
-somthing new
+something new
